@@ -1,1 +1,8 @@
-
+body{
+     background:#cccc
+}
+p {
+    text-align: center;
+em strong {
+    color:rgb(226, 43, 202)
+}
